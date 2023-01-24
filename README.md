@@ -1,2 +1,2 @@
 # swiper_scroll_conflict
-swiperをPageViewの入れ子 にした時、スクロールのコンフリクト問題
+swiperをPageViewの入れ子にした時、スクロールのコンフリクト問題
